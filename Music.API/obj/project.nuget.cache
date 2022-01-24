@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "S5vv2vjP6yv185sb4mBbmU5EqhqbcQ6HtgTH8kL4u9yCKID+6Eia54deUhBCx2JM+5PFo+FZOfNAqBH7I1Jq0w==",
+  "success": true,
+  "projectFilePath": "/home/dev/projects/Music/Music.API/Music.API.csproj",
+  "expectedPackageFiles": [
+    "/home/dev/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/home/dev/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/dev/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "/home/dev/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/home/dev/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/home/dev/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
